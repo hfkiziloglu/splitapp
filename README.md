@@ -112,12 +112,6 @@ lib/                 # Supabase istemcisi, logger
 
 ---
 
-## Ekran Görüntüleri
-
-> *(Eklenecek)*
-
----
-
 ## Katkıda Bulunanlar
 
 | | Kullanıcı |
