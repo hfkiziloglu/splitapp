@@ -123,8 +123,8 @@ lib/                 # Supabase istemcisi, logger
 | | Kullanıcı |
 |---|---|
 | [@hfkiziloglu](https://github.com/hfkiziloglu) | Furkan Kızıloğlu |
-| [@yusufekerl](https://github.com/yusufekerl) | Yusuf Ekerl |
-| [@emiirbas](https://github.com/emiirbas) | Emir Baş |
+| [@yusufekerl](https://github.com/yusufekerl) | Yusuf Eker |
+| [@emiirbas](https://github.com/emiirbas) | Emir Süha Baş |
 
 ---
 
