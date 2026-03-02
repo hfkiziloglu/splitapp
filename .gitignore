@@ -32,6 +32,20 @@ yarn-error.*
 
 # local env files
 .env*.local
+.env
+.env.production
+.env.staging
 
 # typescript
 *.tsbuildinfo
+
+.mcp.json
+
+# Claude Code local settings
+.claude/
+
+# Backup files
+*.backup
+
+# Lint output
+lint_output.txt

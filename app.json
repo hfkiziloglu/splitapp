@@ -1,29 +1,26 @@
 {
   "expo": {
-    "name": "ev-arkadasi",
-    "slug": "ev-arkadasi",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "newArchEnabled": true,
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "edgeToEdgeEnabled": true
-    },
+    "name": "SplitApp",
+    "slug": "splitapp",
+    "scheme": "splitapp",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "bundler": "metro",
+      "output": "static"
+    },
+    "linking": {
+      "prefixes": [
+        "splitapp://",
+        "https://splitapp.app"
+      ]
+    },
+    "extra": {},
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
