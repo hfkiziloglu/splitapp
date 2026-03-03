@@ -4,6 +4,8 @@
 
 Ev arkadaşlarıyla ortak harcamaları takip etmek ve şeffaf şekilde paylaşmak için geliştirilmiş mobil uygulama.
 
+Proje Drive Linki: https://drive.google.com/drive/folders/18_LXo8jv-Pfq768bniTdazh91F3sKFUL
+
 ---
 
 ## Özellikler
